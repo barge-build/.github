@@ -4,5 +4,5 @@
 <p align="center">
   Blazingly fast builds with ease.
   <br />
-  <strong>Currently under active development and in private beta!</strong>
+  <strong>Currently under active development!</strong>
 </p>
